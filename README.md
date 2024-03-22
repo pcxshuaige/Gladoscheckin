@@ -4,7 +4,7 @@
 
 ### 注册一个GLaDOS的账号([注册地址](https://glados.space/landing/0A58E-NV28S-6U3QV-33VMG))
 
-#### 我的邀请码：0A58E-NV28S-6U3QV-33VMG
+#### 我的邀请码：0A58E-NV28S-6U3QV-33VMG333
 
 ### **Fork**本仓库
 
